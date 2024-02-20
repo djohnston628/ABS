@@ -1,0 +1,12 @@
+/Users/david/__git/ABS/ABS.FileGeneration/bin/Debug/net7.0/ABS.FileGeneration.deps.json
+/Users/david/__git/ABS/ABS.FileGeneration/bin/Debug/net7.0/ABS.FileGeneration.dll
+/Users/david/__git/ABS/ABS.FileGeneration/bin/Debug/net7.0/ABS.FileGeneration.pdb
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.csproj.AssemblyReference.cache
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.AssemblyInfoInputs.cache
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.AssemblyInfo.cs
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.csproj.CoreCompileInputs.cache
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.dll
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/refint/ABS.FileGeneration.dll
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ABS.FileGeneration.pdb
+/Users/david/__git/ABS/ABS.FileGeneration/obj/Debug/net7.0/ref/ABS.FileGeneration.dll

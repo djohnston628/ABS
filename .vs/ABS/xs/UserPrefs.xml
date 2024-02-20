@@ -1,0 +1,33 @@
+﻿<Properties BuildWithMSBuildOnMono="True" StartupConfiguration="{F718AE88-8EDB-495F-AB16-B950F22CD63B}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/david/__git/ABS/ABS.WebApp/Controllers/BridgeController.cs" relfile="ABS.WebApp/Controllers/BridgeController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/david/__git/ABS/ABS.WebApp/Controllers/BridgeController.cs" relfile="ABS.WebApp/Controllers/BridgeController.cs" line="43" column="1" />
+      <Breakpoint file="/Users/david/__git/ABS/ABS.FileGeneration/FileGenerationService.cs" relfile="ABS.FileGeneration/FileGenerationService.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ABS.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ABS" expanded="True">
+            <Node name="ABS.FileGeneration" expanded="True" />
+            <Node name="ABS.WebApp" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="FileDownload.aspx" expanded="True">
+                <Node name="FileDownload.aspx.designer.cs" selected="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
